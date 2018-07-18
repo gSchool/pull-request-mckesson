@@ -1,6 +1,8 @@
 1. what is 3 * 3
-______
+___9___
 
 
 2. what is square root of 9
-______
+___3___
+
+xxxxx
